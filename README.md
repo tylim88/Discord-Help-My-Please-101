@@ -8,7 +8,7 @@ format:
 for example, jsx code  
 ![](./img/jsx.png)
 
-it is displayed as
+it is displayed as  
 ![](./img/jsx2.png)
 
 list of alias can be found here:   
