@@ -3,40 +3,9 @@
 ## Code Block
 
 format:
-```
-    `````alias(optional)
-       code
-    `````
-```
+![](./img/format.png)
 
 for example, jsx code
-```
-```jsx
-class List extends Component {
-    render() {
-        return (
-            <Subscribe to={[ToDoContainer]}>
-                {(toDo) => (
-                    <>
-                        {toDo.filteredList().map(({ text, done }, index) => {
-                            return (
-                                <ListItem
-                                    // dynamically generate the list items
-                                    key={index}
-                                    index={index}
-                                    text={text}
-                                    done={done}
-                                    toDo={toDo}
-                                />
-                            )
-                        })}
-                    </>
-                )}
-            </Subscribe>
-        )
-    }
-}
+![](./img/jsx.png)
 
-export default List
-```
-```
+list of alias can be found here: https://highlightjs.readthedocs.io/en/latest/css-classes-reference.html#language-names-and-aliases
