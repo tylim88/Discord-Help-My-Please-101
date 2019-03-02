@@ -21,10 +21,9 @@ https://highlightjs.readthedocs.io/en/latest/css-classes-reference.html#language
 Window come with default Snipping Tool, here is some alternative:  
 https://www.cnet.com/how-to/7-ways-to-take-screenshots-in-windows-10/
 
-When you screen shoot, make sure it is not too small and can be viewed clearly without `open original`
+When you screen shoot, make sure it is not too small and can be viewed clearly without `open original`  
+if you have a lot of screen shoot, paste it seperately
 
-![](./img/screen1.png)
+![](./img/discord1.png)
 
-![](./img/screen2.png)
-
-![](./img/screen3.png)
+![](./img/discord2.png)
