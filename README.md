@@ -4,9 +4,9 @@
 
 format:
 ```
-    ```alias(optional)
+    `````alias(optional)
        code
-    ```
+    `````
 ```
 
 for example, jsx code
