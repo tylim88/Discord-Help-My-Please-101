@@ -1,6 +1,6 @@
-Discord-Please-Help-Me-101
+# Discord-Paste-My-Code-101
 
-Master the art of code pasting and code screen shoot in discord.
+Become the mMaster code pasting and code screen shoot in discord.
 
 ## Code Block
 
