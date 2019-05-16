@@ -2,7 +2,7 @@
 
 Become the Master of code pasting and code screen shoot in Discord.
 
-Present your problem clearly make both of you and our life easier.
+Present your problem clearly reduce both of you and helper blood pressure.
 
 For the sake of Odin!
 
