@@ -4,9 +4,11 @@ Become the Master of code pasting and code screen shoot in Discord.
 
 Present your problem clearly make both of you and our life easier.
 
+For the sake of Odin!
+
 ## Formatter
 
-use formatter like Prettier before you paste your code
+Use formatter like Prettier before you paste your spagetti code
 
 Install Prettier extension for your code editor
 
