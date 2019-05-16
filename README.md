@@ -28,3 +28,9 @@ Clear and easy to view image increase your chance to get answered.
 ![](./img/screen1.png)
 
 ![](./img/screen2.png)
+
+## Formatter
+
+use formatter like Prettier before you paste your code
+
+Install Prettier extension for your code editor
