@@ -16,7 +16,7 @@ It also show that you never put in any effort trying to solve the question on yo
 
 People like to help you if you help yourself first.
 
-If the issue is very complicated and involves a lot of module, paste the link to your repository instead.
+If the issue is very complicated and consist of many modules, paste the link to your repository instead.
 
 ## Formatter
 
