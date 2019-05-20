@@ -1,4 +1,4 @@
-# Discord-Paste-My-Code-101
+# Discord-Help-My-Please-101
 
 Become the Master of code pasting and code screen shoot in Discord.
 
