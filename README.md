@@ -12,7 +12,9 @@ Do not paste all your code, filter and identify which part of code has problem.
 
 Pasting all the code greatly reduce your chance to get help because too much distraction.
 
-It also show that you never put in any effort trying to solve the question on your own first and just want to rely on the community.
+It also show that you never put in any effort trying to solve the question on your own and just want to rely on the community.
+
+People like to help you if you help yourself first.
 
 ## Formatter
 
