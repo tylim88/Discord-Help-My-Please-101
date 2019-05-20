@@ -16,6 +16,8 @@ It also show that you never put in any effort trying to solve the question on yo
 
 People like to help you if you help yourself first.
 
+If the issue is very complicated and involves a lot of module, paste the link to your repository instead.
+
 ## Formatter
 
 Use formatter like Prettier before you paste your spagetti code
