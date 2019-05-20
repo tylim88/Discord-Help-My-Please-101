@@ -8,7 +8,7 @@ For the sake of Odin!
 
 ## Identify and Filter
 
-Do not paste all your code, filter and identify which part of code has problem.
+Do not paste all your code, instead filter and identify which part of code has problem.
 
 Pasting all the code greatly reduce your chance to get help because too much distraction.
 
