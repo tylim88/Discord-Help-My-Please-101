@@ -44,13 +44,13 @@ https://highlightjs.readthedocs.io/en/latest/css-classes-reference.html#language
 
 Do not take picture of your code using phone, it is a real pain!
 
-Is your image clear to yourself? If you having hard time to see your own photo, why should us?
+Is your image clear to yourself? If you are having hard time to see your own photo, why should us?
 
-It ain't fun!
+It ain't fun, it is awful, and you should feel bad about yourself for making this life mistake!
 
 You are on a computer, use the tools provided, don't be lazy!
 
-Window come with default Snipping Tool, here is some alternative:  
+Window comes with default Snipping Tool, here is some alternative:  
 https://www.cnet.com/how-to/7-ways-to-take-screenshots-in-windows-10/
 
 During screen shoot, make sure it is not too small and can be viewed clearly without `open original`  
