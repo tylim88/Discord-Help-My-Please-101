@@ -48,7 +48,7 @@ Is your image clear to yourself? If you are having hard time to see your own pho
 
 It ain't fun, it is awful, and you should feel bad about yourself for making this life mistake!
 
-You are on a computer, use the tools provided, don't be lazy!
+You are on a computer, use the tools provided, don't be lazy, repent your sin!
 
 Window comes with default Snipping Tool, here is some alternative:  
 https://www.cnet.com/how-to/7-ways-to-take-screenshots-in-windows-10/
