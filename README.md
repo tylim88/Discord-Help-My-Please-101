@@ -42,6 +42,10 @@ https://highlightjs.readthedocs.io/en/latest/css-classes-reference.html#language
 
 ## Screen Shoot
 
+Do not take picture of your code using phone, it is a real pain!
+
+You are on a computer, use the tools provided, don't be lazy!
+
 Window come with default Snipping Tool, here is some alternative:  
 https://www.cnet.com/how-to/7-ways-to-take-screenshots-in-windows-10/
 
