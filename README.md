@@ -54,7 +54,9 @@ Window come with default Snipping Tool, here is some alternative:
 https://www.cnet.com/how-to/7-ways-to-take-screenshots-in-windows-10/
 
 During screen shoot, make sure it is not too small and can be viewed clearly without `open original`  
-If you have a lot of screen shoot, paste it seperately.  
+If you have a lot of screen shoot, paste it seperately.
+
+Do not include irrelevant area(like terminal) because it increase the size of your image and big image looks small!
 
 ![](./img/screen1.png)
 
