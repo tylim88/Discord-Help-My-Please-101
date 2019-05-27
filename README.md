@@ -46,6 +46,8 @@ Do not take picture of your code using phone, it is a real pain!
 
 Is your image clear to yourself? If you having hard time to see your own photo, why should us?
 
+It ain't fun!
+
 You are on a computer, use the tools provided, don't be lazy!
 
 Window come with default Snipping Tool, here is some alternative:  
