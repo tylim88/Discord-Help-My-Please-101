@@ -20,6 +20,12 @@ People like to help you if you help yourself first.
 
 If the issue is very complicated and consist of many modules, paste the link to your repository instead.
 
+## Formatter
+
+Use formatter like Prettier before you paste your spagetti code
+
+Install Prettier extension for your code editor
+
 ## Code Block
 
 format:  
@@ -55,10 +61,4 @@ Do not include irrelevant area(like terminal) because it increase the size of yo
 ![](./img/screen1.png)
 
 ![](./img/screen2.png)
-
-## Formatter
-
-Use formatter like Prettier before you paste your spagetti code
-
-Install Prettier extension for your code editor
 
