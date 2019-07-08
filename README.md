@@ -2,11 +2,11 @@
 
 Become the Master of code pasting and code screen shoot in Discord.
 
-Present your problem clearly reduce both of you and helper blood pressure.
+Present your problem clearly reduce both you and your helper blood pressure.
 
 Be smart in coding, be smart in asking for help!
 
-For Odin's sake!
+For Odin's sake, be smart!
 
 ## Identify and Filter
 
