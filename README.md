@@ -64,3 +64,7 @@ Do not include irrelevant area(like terminal) because it increase the size of yo
 
 ![](./img/screen2.png)
 
+## Cunningham's Law
+
+https://meta.wikimedia.org/wiki/Cunningham%27s_Law
+
