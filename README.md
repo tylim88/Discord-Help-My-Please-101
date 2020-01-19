@@ -2,7 +2,7 @@
 
 Become the Master of code pasting and code screen shoot in Discord.
 
-Present your problem clearly reduce both you and your helpers blood pressure.
+Present your problem clearly to reduce both you and your helpers blood pressure.
 
 Getting help is hard, don't make it harder for your helpers!
 
