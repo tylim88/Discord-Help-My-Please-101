@@ -27,11 +27,6 @@ People like to help you if you help yourself first.
 
 If the issue is very complicated and consist of many modules, paste the link to your repository instead.
 
-## Formatter
-
-Use formatter like Prettier before you paste your spagetti code
-
-Install Prettier extension for your code editor
 
 ## Code Block
 
@@ -70,7 +65,15 @@ Do not include irrelevant area(like terminal) because it increase the size of yo
 
 ![](./img/screen2.png)
 
+## Formatter
+
+Use formatter like Prettier before you paste your spagetti code
+
+Install Prettier extension for your code editor
+
 ## Cunningham's Law
+
+Utilize this simple trick to bait more answers!
 
 https://meta.wikimedia.org/wiki/Cunningham%27s_Law
 
