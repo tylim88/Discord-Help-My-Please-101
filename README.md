@@ -10,6 +10,11 @@ Be smart in coding, be smart in asking for help!
 
 For Odin's sake, be smart!
 
+## Install Discord on Your PC
+
+No excuses, do it now!
+https://discordapp.com/
+
 ## Identify and Filter
 
 Do not paste all your code, instead filter and identify which part of code has problem.
