@@ -42,7 +42,7 @@ it is displayed as
 list of alias can be found here:   
 https://highlightjs.readthedocs.io/en/latest/css-classes-reference.html#language-names-and-aliases
 
-## Screen Shoot
+## Print Screen
 
 Do not take picture of your code using phone, it is a real pain!
 
@@ -55,7 +55,7 @@ You are on a computer, use the tools provided, don't be lazy, repent your sin!
 Window comes with default Snipping Tool, here is some alternative:  
 https://www.cnet.com/how-to/7-ways-to-take-screenshots-in-windows-10/
 
-During screen shoot, make sure it is not too small and can be viewed clearly without `open original`  
+During print screen, make sure it is not too small and can be viewed clearly without `open original`  
 If you have a lot of screen shoot, paste it seperately.
 
 Do not include irrelevant area(like terminal) because it increase the size of your image and big image looks small!
