@@ -28,7 +28,7 @@ People like to help you if you help yourself first.
 If the issue is very complicated and consist of many modules, paste the link to your repository instead.
 
 
-## Code Block
+## Code Block (Best)
 
 format:  
 ![](./img/format.png)
@@ -73,7 +73,7 @@ Install Prettier extension for your code editor
 
 ## Cunningham's Law
 
-Utilize this simple trick to bait more answers!
+Utilize this simple trick to get more answers!
 
 https://meta.wikimedia.org/wiki/Cunningham%27s_Law
 
